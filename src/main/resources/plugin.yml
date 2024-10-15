@@ -1,0 +1,4 @@
+name: VChat
+version: '${project.version}'
+main: com.vchat.main.Main
+api-version: '1.20'
